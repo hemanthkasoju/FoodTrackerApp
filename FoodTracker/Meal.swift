@@ -1,9 +1,10 @@
 //
-//  Meal.swift
+//
+//  AppDelegate.swift
 //  FoodTracker
 //
-//  Created by Jane Appleseed on 11/10/16.
-//  Copyright © 2016 Apple Inc. All rights reserved.
+//  Created by Hemanth Kasoju on 2018-09-28.
+//  Copyright © 2018 com/uregina. All rights reserved.
 //
 
 import UIKit

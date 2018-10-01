@@ -1,10 +1,9 @@
 
 //
-//  RatingControl.swift
+//  AppDelegate.swift
 //  FoodTracker
-//
-//  Created by Anil Varma Keerthipati on 2018-09-30.
-//  Copyright © 2018 Apple Inc. All rights reserved.
+//  Created by Hemanth Kasoju on 2018-09-28.
+//  Copyright © 2018 com/uregina. All rights reserved.
 //
 
 import UIKit

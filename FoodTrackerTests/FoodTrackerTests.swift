@@ -1,9 +1,9 @@
 //
-//  FoodTrackerTests.swift
-//  FoodTrackerTests
+//  AppDelegate.swift
+//  FoodTracker
 //
-//  Created by Jane Appleseed on 10/17/16.
-//  Copyright © 2016 Apple Inc. All rights reserved.
+//  Created by Hemanth Kasoju on 2018-09-22.
+//  Copyright © 2018 com/uregina. All rights reserved.
 //
 
 import XCTest
