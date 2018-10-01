@@ -12,6 +12,7 @@ import UIKit
     
     //MARK: Properties
     
+    
     private var ratingButtons = [UIButton]()
     
     var rating = 0 {
